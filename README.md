@@ -1,5 +1,5 @@
 
-# Maze Exploration Game
+# 🧩 Maze Exploration Game 🎮
 
 This is a text-based maze exploration game developed in Python, where the player navigates through a maze from a starting point to an endpoint while encountering various obstacles and collecting bonuses. The player aims to collect the highest score while avoiding obstacles and completing the maze.
 
