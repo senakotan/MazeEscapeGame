@@ -19,7 +19,7 @@ The game takes place on a 2D character matrix (15x15) that represents the struct
 
 The maze is represented by a 15x15 matrix, with each character indicating different elements of the maze:
 
-- # : Wall (Impassable, unless removed with 'R' bonus)
+- \# : Wall (Impassable, unless removed with 'R' bonus)
 - . : Path (Passable)
 - ! : Mine (Explodes unless defused with 'F' bonus)
 - T : Teleportation bonus (Allows the player to teleport to a previously visited path)
