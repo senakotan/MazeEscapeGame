@@ -78,21 +78,6 @@ The player will be prompted to input a move (W, A, S, D) at each step. The game 
 
 ---
 
-## Installation
-
-1. Clone this repository to your local machine:
-   bash
-   git clone https://github.com/yourusername/maze-exploration-game.git
-   
-2. Install Python (if you haven't already). This project uses Python 3.x.
-3. Navigate to the project folder:
-   bash
-   cd maze-exploration-game
-   
-4. Run the game:
-   bash
-   python Main.py
-   
 
 ## How to Play
 
@@ -106,11 +91,6 @@ The player will be prompted to input a move (W, A, S, D) at each step. The game 
 4. Try to reach the endpoint E while avoiding mines and walls.
 5. Enjoy the adventure and try to collect the highest score!
 
-## Game Flow
 
-- **Start Point (B): The player starts here.
-- **End Point (E): The player aims to reach this point to complete the game.
-- **Bonuses (T, R, H, F): Collect bonuses to help overcome obstacles.
-- **Obstacles (#, !): Avoid walls and mines, or use bonuses to bypass them.
 
 ---
