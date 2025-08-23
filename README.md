@@ -46,7 +46,7 @@ If the player encounters a wall, they need the 'R' bonus to remove it. Without t
 ### Mines (`!`)
 If the player encounters a mine, they need the 'F' bonus to defuse it. If the player doesn't have the 'F' bonus, the mine explodes, turning into a path (`.`), and the player loses 5 moves.
 
-## Bonuses
+## 💎 Bonuses
 
 The game has four types of bonuses that the player can collect and use:
 
@@ -72,7 +72,7 @@ The player will be prompted to input a move (`W`, `A`, `S`, `D`) at each step. T
 
 ## 📝 How to Play
 
-1. Start by pressing **Enter** to begin the game.  
+1. Run the Python code to start the game.  
 2. Use the following commands to move:  
    - `W` : Move Up  
    - `A` : Move Left  
