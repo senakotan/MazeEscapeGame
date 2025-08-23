@@ -192,7 +192,7 @@ def redistribute_mine(maze, moves):
                             maze[row_idx][col_idx] = '.'
                             maze[new_x][new_y] = '!'
                             break
-                    break #herseferinde yalnızca bir mayın
+                    break 
     return maze
 
 
@@ -251,4 +251,5 @@ while True:
     if location == end:
         print("\nÇıkış noktasına ulaşıldı. Tebrikler!")
         print("Toplam Hamle Sayısı:", moves)
+
         break
